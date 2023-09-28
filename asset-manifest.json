@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://kushagra-dutta.github.io/csb-ypxwzm/static/js/main.de87ee4b.chunk.js",
+    "main.js.map": "https://kushagra-dutta.github.io/csb-ypxwzm/static/js/main.de87ee4b.chunk.js.map",
+    "runtime-main.js": "https://kushagra-dutta.github.io/csb-ypxwzm/static/js/runtime-main.afc7e0e6.js",
+    "runtime-main.js.map": "https://kushagra-dutta.github.io/csb-ypxwzm/static/js/runtime-main.afc7e0e6.js.map",
+    "static/js/2.46c8e90e.chunk.js": "https://kushagra-dutta.github.io/csb-ypxwzm/static/js/2.46c8e90e.chunk.js",
+    "static/js/2.46c8e90e.chunk.js.map": "https://kushagra-dutta.github.io/csb-ypxwzm/static/js/2.46c8e90e.chunk.js.map",
+    "index.html": "https://kushagra-dutta.github.io/csb-ypxwzm/index.html",
+    "precache-manifest.8f5177bf6f4c3eb2fe5a5b7284ab466e.js": "https://kushagra-dutta.github.io/csb-ypxwzm/precache-manifest.8f5177bf6f4c3eb2fe5a5b7284ab466e.js",
+    "service-worker.js": "https://kushagra-dutta.github.io/csb-ypxwzm/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afc7e0e6.js",
+    "static/js/2.46c8e90e.chunk.js",
+    "static/js/main.de87ee4b.chunk.js"
+  ]
+}
